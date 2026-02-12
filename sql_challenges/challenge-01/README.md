@@ -1,0 +1,2 @@
+Complete the first 5 lessons of https://sqlbolt.com/
+
